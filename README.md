@@ -3,6 +3,7 @@
 Reminder that this is still in testing phases and things might not work as planned.
 
 ### Getting Started
+## [PLEASE READ FAQ in the discord](https://discord.com/channels/1039951702423523369/1473083509802270840)
 
 #### Installation
 1.  Navigate to the **[Releases page](https://github.com/suxhi-space/OSFR-Mac-Launcher/releases)**.
